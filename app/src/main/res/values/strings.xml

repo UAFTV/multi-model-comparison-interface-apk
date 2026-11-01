@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Multi Model Comparison</string>
+    <string name="screen_title">Model Comparison</string>
+    <string name="prompt_hint">Paste a prompt or task for comparison</string>
+    <string name="compare_button">Compare models</string>
+    <string name="model_1">Claude Sonnet</string>
+    <string name="model_2">GPT-4o</string>
+    <string name="model_3">Gemini 1.5 Pro</string>
+    <string name="summary_label">Evaluation summary</string>
+</resources>
